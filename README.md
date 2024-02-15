@@ -6,8 +6,7 @@ The datasets generated during and/or analyzed during the current study are avail
   [link to Download](https://commonvoice.mozilla.org/en/datasets)
 
 * ParsNum (Call Center):
-  [link to Download](...)
-
+  [link to Download](https://www.dropbox.com/scl/fi/8e725jxyz8dasel47z0hj/ParsNum-dataset.rar?rlkey=62g2n0yvfieicmyw60rgthg7g&dl=0)
 
 ## Contact
 Email : soheil.tehranipoor@gmail.com
